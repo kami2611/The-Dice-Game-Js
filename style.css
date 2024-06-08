@@ -1,0 +1,15 @@
+.Dices
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.container
+{
+    background-color: aliceblue;
+    color: black;
+}
+h1
+{
+    text-align: center;
+}
